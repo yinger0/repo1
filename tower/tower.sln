@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tower one", "tower one\tower one.vcxproj", "{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Debug|x64.ActiveCfg = Debug|x64
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Debug|x64.Build.0 = Debug|x64
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Debug|x86.ActiveCfg = Debug|Win32
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Debug|x86.Build.0 = Debug|Win32
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Release|x64.ActiveCfg = Release|x64
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Release|x64.Build.0 = Release|x64
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Release|x86.ActiveCfg = Release|Win32
+		{10CDBFFF-770A-42A5-BBC0-3743D23C4D84}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1698322-BE5C-473E-A4E6-2025115E8A6B}
+	EndGlobalSection
+EndGlobal
